@@ -4,4 +4,4 @@
 Computer Science, Bachelor's
 
 ### Projects
-Library Managment System
+Library Management System
